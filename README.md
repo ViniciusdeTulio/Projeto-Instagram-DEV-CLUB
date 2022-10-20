@@ -15,7 +15,7 @@
 
 <p> CSS </p>
     
-<p> JavaScript (Troca de imagens constantemente depois de alguns segundos) </p>
+<p> JavaScript ( Troca de imagens constantemente depois de alguns segundos ) </p>
 
 <br>
 <br>
