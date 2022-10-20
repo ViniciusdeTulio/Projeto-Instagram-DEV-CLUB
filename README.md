@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<h2> Um dos projetos que fiz no <a href="https://rodolfomori.com.br/devclub">DevClub </a></h2>
+<h2> Um dos projetos do <a href="https://rodolfomori.com.br/devclub">DevClub </a></h2>
   
 <br>
 
@@ -15,7 +15,9 @@
 
 <p> CSS </p>
     
-<p> JavaScript (Troca de imagens depois de alguns segundos) </p>
+<p> JavaScript (Troca de imagens constantemente depois de alguns segundos) </p>
 
 <br>
 <br>
+
+<img src="https://github.com/ViniciusdeTulio/Projeto-Instagram-DEV-CLUB/blob/master/img/Projeto%20Desktop%20JavaScript.png?raw=true">
